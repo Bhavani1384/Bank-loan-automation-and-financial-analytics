@@ -3,7 +3,7 @@ This project focuses on automating and analyzing bank loan data to extract meani
 Project Overview
 This project focuses on automating and analyzing bank loan data to extract meaningful insights using Power BI. It empowers financial institutions to efficiently track loan approvals, defaults, and customer trends across various sectors and demographics. The goal is to help banks make smarter, data-driven decisions that improve loan management and minimize risks.
 
-Key Features
+Key Features:
 Loan Data Automation:
 Streamline the collection, processing, and management of loan application data.
 
